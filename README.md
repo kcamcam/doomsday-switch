@@ -1,4 +1,4 @@
-# doomsdaySwitch
+# Doomsday Switch
 Arduino IoT light switch
 
 ![demo](demo.gif)
