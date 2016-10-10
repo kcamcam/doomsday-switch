@@ -3,7 +3,7 @@ Arduino IoT light switch
 
 ![demo](demo.gif)
 
-![inside](inside.JPG =250x)
+![inside](inside.JPG =250)
 ![demo2](demo2.gif)
 
 Small weekend project I built with [@kcamcam](https://github.com/kcamcam)
