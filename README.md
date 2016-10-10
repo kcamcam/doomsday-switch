@@ -7,7 +7,7 @@ Arduino IoT light switch
 
 <img src="demo2.gif" width="480">
 
-Small weekend project I built with [@kcamcam](https://github.com/kcamcam)
+Small weekend project I built with [@jusleg](https://github.com/juselg)
 
 Components:
 * Particle Photon
