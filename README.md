@@ -1,7 +1,7 @@
 # Doomsday Switch
 Arduino IoT light switch
 
-![demo](demo.gif)
+![demo](demo2.gif)
 
 ![demo2](demo2.gif)
 
