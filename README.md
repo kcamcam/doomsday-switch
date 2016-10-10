@@ -4,7 +4,7 @@ Arduino IoT light switch
 ![demo](demo.gif)
 
 <img src="inside.JPG" width="250">
-<img src="top_front.JPG" width="250">
+<img src="top.JPG" width="250">
 <img src="bottom.JPG" width="250">
 
 <img src="demo2.gif" width="480">
