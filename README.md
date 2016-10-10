@@ -3,7 +3,7 @@ Arduino IoT light switch
 
 ![demo](demo.gif)
 
-![inside](inside.JPG =250x100)
+![inside](inside.JPG)
 
 ![demo2](demo2.gif)
 
